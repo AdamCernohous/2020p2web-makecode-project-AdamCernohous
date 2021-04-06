@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://adamcernohous.github.io/2020p2web-makecode-project-adamcernohous/](https://adamcernohous.github.io/2020p2web-makecode-project-adamcernohous/)
+> Open this page at [https://adamcernohous.github.io/2020p2web-makecode-project-AdamCernohous/](https://adamcernohous.github.io/2020p2web-makecode-project-AdamCernohous/)
 
 ## Use as Extension
 
